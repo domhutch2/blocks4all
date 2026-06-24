@@ -61,20 +61,10 @@ NUTH-specific loading doses, infusion rates, equipment, and catheter durations. 
 | **Fascia iliaca** | — |
 | **Paravertebral** | 8 / 10 / 12 |
 
-### Bupivacaine 0.1% (Freeman site — max infusion rate 0.5 mg/kg/hr)
-
-| Block type | Max rate 0.1% (mL/hr) |
-|---|---|
-| | 50–70 / \>70 kg |
-| **Hepatobiliary (surgical insertion)** | 10 (5+5) / 10 (5+5) |
-| **Lower limb** | 8 / 10 |
-
-:::info Site-specific notes
-- **Bupivacaine 0.1%** is the infusion agent of choice at Freeman. Dose in first 4 hours must not exceed 2 mg/kg; total daily dose must be < 400 mg.
+:::info Notes
 - **Ropivacaine 0.2%** is commonly used at the RVI, particularly for shoulder surgery.
 - **Levobupivacaine 0.125%** is available pre-mixed; 0.25% needs to be drawn up from vials (drug error risk).
 - **Levobupivacaine 0.125% may not provide adequate analgesia** for severe pain (rib fractures, femoral fractures) — consider 0.25% levobupivacaine or ropivacaine.
-- **PVB in cardiothoracics**: bupivacaine 0.1%, 8–10 mL/hr (< 70 kg), 12–15 mL/hr (> 70 kg). Exceptional max 20 mL/hr.
 :::
 
 ## Equipment (NUTH)
@@ -106,11 +96,11 @@ NUTH-specific loading doses, infusion rates, equipment, and catheter durations. 
 
 | Block | Standard duration | Notes |
 |---|---|---|
-| **Fascia iliaca (hip fracture)** | 24 hours post-fixation | RVI standard |
-| **Paravertebral (rib fractures)** | Up to 5 days | RVI standard |
-| **Interscalene** | 72 hours | RVI standard |
-| **Non-tunnelled catheters** | Up to 72 hours | Freeman standard |
-| **Tunnelled catheters** | Up to 2 weeks | Freeman standard |
+| **Fascia iliaca (hip fracture)** | 24 hours post-fixation | |
+| **Paravertebral (rib fractures)** | Up to 5 days | |
+| **Interscalene** | 72 hours | |
+| **Non-tunnelled catheters** | Up to 72 hours | |
+| **Tunnelled catheters** | Up to 2 weeks | |
 
 - Intended duration should be documented at the time of insertion
 - Infection risk increases with duration — review daily and document rationale for continuation
@@ -120,8 +110,7 @@ NUTH-specific loading doses, infusion rates, equipment, and catheter durations. 
 
 All nerve catheters must be referred to the Acute Pain Team for ongoing management:
 
-**RVI**: Enter details on Pain Database, email nuth.InPatientPainServiceRVI@nhs.net, or call DECT 29912 / 29996  
-**Freeman**: Contact APS on DECT 48078; enter details into the Freeman Pain Database
+Enter details on the Pain Database, email nuth.InPatientPainServiceRVI@nhs.net, or call DECT 29912 / 29996
 
 ## Catheter removal
 
@@ -161,7 +150,7 @@ All nerve catheters must be referred to the Acute Pain Team for ongoing manageme
 
 - Acceptable in some cases (e.g. oesophagectomy, polytrauma)
 - The **maximum LA infusion rate is summative** — if max calculated rate is 14 mL/h, the sum of both catheter infusion rates must not exceed this
-- Multiple simultaneous nerve catheters: currently RVI only (not Freeman at time of guideline)
+- Multiple simultaneous nerve catheters may be considered at the RVI
 
 ## References
 

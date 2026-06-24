@@ -46,14 +46,8 @@ Is the distribution consistent with the block performed?
 If neuropathic pain is present or pain is limited to the distribution of a particular nerve, refer to the Acute Pain Service and consider starting neuropathic medication.
 :::
 
-## NUTH referral pathway
+## RVI referral pathway
 
-**Freeman Hospital**
-- Mon–Fri 0800–1700: APS — nuth.Acute.PainFreeman@nhs.net / DECT 48078
-- Out of hours: 2nd Call anaesthetist (DECT 48483)
-- Patients will be referred to M. Jones / I. Walker / A. Scott for outpatient review in Clinic H
-
-**RVI**
 - In hours: APS — nuth.inpatientpainservicervi@nhs.net / DECT 39996
 - Out of hours: PINC anaesthetist (DECT 29214)
 - Patients will be reviewed by a senior member of the regional anaesthesia team as inpatient or outpatient

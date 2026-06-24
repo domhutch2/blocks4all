@@ -1,17 +1,9 @@
 ---
 sidebar_position: 5
-tags: [contacts, pain team, on-call, NUTH, Freeman, RVI]
+tags: [contacts, pain team, on-call, NUTH, RVI]
 ---
 
 # Contacts
-
-## Freeman Hospital
-
-| Role | Contact |
-|---|---|
-| **APS (Mon–Fri 0800–1700)** | nuth.Acute.PainFreeman@nhs.net / DECT 48078 |
-| **2nd Call Anaesthetist (out of hours)** | DECT 48483 |
-| **Nerve injury outpatient review** | M. Jones / I. Walker / A. Scott — Clinic H |
 
 ## RVI
 
@@ -22,8 +14,8 @@ tags: [contacts, pain team, on-call, NUTH, Freeman, RVI]
 
 ## Regional anaesthesia advice
 
-- Mon–Fri 0800–1800: Named consultant with RA interest available via DECT on both sites
-- Out of hours: PINC anaesthetic registrar on call (DECT 29214 at RVI), 2nd Call anaesthetist (DECT 48483 at Freeman)
+- Mon–Fri 0800–1800: Named consultant with RA interest available via DECT
+- Out of hours: PINC anaesthetic registrar on call (DECT 29214)
 
 ## Useful resources
 

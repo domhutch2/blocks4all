@@ -87,7 +87,7 @@ const regionLinks: RegionLink[] = [
   {title: 'Upper Limb', icon: '\u{1F4AA}', examples: 'Shoulder, wrist ORIF, carpal tunnel', to: '/docs/category/upper-limb'},
   {title: 'Lower Limb', icon: '\u{1F9B5}', examples: 'TKR, hip, ankle, ACL, amputation', to: '/docs/category/lower-limb'},
   {title: 'Trunk', icon: '\u{1FAC1}', examples: 'Laparotomy, mastectomy, ribs, C-section', to: '/docs/category/trunk'},
-  {title: 'Head & Neck', icon: '\u{1F9E0}', examples: 'Thyroidectomy, carotid endarterectomy', to: '/docs/category/head--neck'},
+  {title: 'Head & Neck', icon: '\u{1F9E0}', examples: 'Thyroidectomy', to: '/docs/category/head--neck'},
 ];
 
 function QuickLinks(): ReactNode {

@@ -60,7 +60,6 @@ const regions: Region[] = [
     to: '/docs/category/head--neck',
     blocks: [
       'Superficial cervical plexus',
-      'Deep cervical plexus',
     ],
   },
 ];

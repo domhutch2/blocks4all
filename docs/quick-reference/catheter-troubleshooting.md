@@ -61,8 +61,6 @@ If signs of LA toxicity (metallic taste, confusion, dizziness, tinnitus):
 
 ## Disconnections
 
-### RVI protocol
-
 **Disconnect proximal to filter** (between filter and nerve catheter)?
 - **Yes** + witnessed/informed immediately → Spray catheter with 0.5% chlorhexidine, cut the tip by 1 cm, restart infusion
 - **Yes** + not witnessed immediately + visibly soiled → Re-site or prescribe alternative, inform pain team
@@ -70,15 +68,6 @@ If signs of LA toxicity (metallic taste, confusion, dizziness, tinnitus):
 - **No** (distal to filter) → Change the giving set and reconnect to the filter
 
 *Keep the pump sterile and re-use if the catheter is re-sited.*
-
-### Freeman protocol
-
-**Disconnect proximal to filter?**
-- **Yes** + witnessed/informed immediately → Spray catheter with 0.5% chlorhexidine, cut the tip by 1 cm, restart infusion
-- **Yes** + not witnessed immediately → Re-site or prescribe alternative, inform pain team
-- **No** (distal to filter) → Change the giving set and reconnect to the filter
-
-*Change the infusion bag and line if the catheter is re-sited. Handle with aseptic technique; use sterile scissors if cutting.*
 
 ## References
 

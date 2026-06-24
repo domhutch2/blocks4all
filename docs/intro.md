@@ -31,9 +31,9 @@ Essential pages you'll need on shift:
 | Region | Examples |
 |---|---|
 | [Upper Limb](/docs/category/upper-limb) | Shoulder arthroscopy, ORIF distal radius, carpal tunnel release |
-| [Lower Limb](/docs/category/lower-limb) | TKR, hip arthroplasty, ankle ORIF, ACL reconstruction, AKA |
-| [Trunk](/docs/category/trunk) | Laparotomy, mastectomy, rib fractures, caesarean section, spinal surgery |
-| [Head & Neck](/docs/category/head--neck) | Thyroidectomy, carotid endarterectomy |
+| [Lower Limb](/docs/category/lower-limb) | TKR, hip arthroplasty, ankle ORIF, AKA, peripheral vascular |
+| [Trunk](/docs/category/trunk) | Laparotomy, mastectomy, rib fractures, caesarean section |
+| [Head & Neck](/docs/category/head--neck) | Thyroidectomy |
 
 ## Each procedure page includes
 
