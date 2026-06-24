@@ -1,9 +1,134 @@
 ---
 sidebar_position: 3
-tags: [infusion, epidural, paravertebral, fascia iliaca, catheter, PCA]
+tags: [infusion, epidural, paravertebral, fascia iliaca, catheter, PCA, NUTH]
 ---
 
 # Standard Infusion Recipes
+
+NUTH-specific loading doses, infusion rates, equipment, and catheter durations. Based on the NUTH Guideline for Peripheral Nerve Block Catheters in Adults (v2, February 2024).
+
+## Loading doses (single shot / catheter loading)
+
+### Levobupivacaine (max dose 2 mg/kg)
+
+| Block type | 0.25% max volume | 0.5% max volume |
+|---|---|---|
+| | \>50 kg / \>60 kg / \>70 kg | \>50 kg / \>60 kg / \>70 kg |
+| **ESP** | 30 / 40 / 50 | — |
+| **QL, TAP, Serratus** | 15/side / 20/side / 25/side | — |
+| **Interscalene** | 15 / 20 / 25 | 10 / 15 / 20 |
+| **Axillary, Supra/Infraclavicular, Sciatic, Femoral** | 25 / 30 / 40 | 15 / 20 / 25 |
+| **Fascia iliaca** | 30 / 35 / 40 | — |
+| **Paravertebral** | 30 / 35 / 40 | 15 / 20 / 25 |
+| **Rectus sheath** | 15/side / 20/side / 25/side | — |
+
+### Lidocaine with adrenaline 1:200,000 (max dose 7 mg/kg)
+
+| Block type | 1% max volume |
+|---|---|
+| | \>50 kg / \>60 kg / \>70 kg |
+| **ESP** | 30 / 40 / 50 |
+| **QL, TAP, Serratus** | 15/side / 20/side / 25/side |
+| **Interscalene** | 15 / 20 / 25 |
+| **Axillary, Supra/Infraclavicular, Sciatic, Femoral** | 25 / 30 / 40 |
+| **Fascia iliaca** | 25 / 30 / 40 |
+| **Paravertebral** | 30 / 35 / 40 |
+| **Rectus sheath** | — |
+
+## Continuous infusion rates
+
+### Levobupivacaine 0.125% (recommended max infusion rate 0.5 mg/kg/hr)
+
+| Block type | Max rate 0.25% (mL/hr) | Max rate 0.125% (mL/hr) |
+|---|---|---|
+| | \>50 / \>60 / \>70 kg | \>50 / \>60 / \>70 kg |
+| **ESP, QL, TAP, Serratus** | — | 6 / 8 / 10 |
+| **Renal transplant** | — | 5 / 5 / 5 |
+| **Lower limb (sciatic, femoral)** | — | 4 / 6 / 8 |
+| **Upper limb (brachial plexus)** | — | 2 / 4 / 4 |
+| **Fascia iliaca** | — | 6 / 8 / 8 |
+| **Paravertebral** | 6 / 8 / 10 | — |
+| **Rectus sheath** | 4 (2+2) / 4 (2+2) / 4 (2+2) | — |
+
+### Ropivacaine 0.2% (recommended max infusion rate 0.75 mg/kg/hr)
+
+| Block type | Max rate 0.2% (mL/hr) |
+|---|---|
+| | \>50 / \>60 / \>70 kg |
+| **ESP, QL, TAP, Serratus** | 10 / 12 / 14 |
+| **Lower limb (sciatic, femoral)** | 6 / 8 / 10 |
+| **Upper limb (brachial plexus)** | 4 / 6 / 6 |
+| **Fascia iliaca** | — |
+| **Paravertebral** | 8 / 10 / 12 |
+
+### Bupivacaine 0.1% (Freeman site — max infusion rate 0.5 mg/kg/hr)
+
+| Block type | Max rate 0.1% (mL/hr) |
+|---|---|
+| | 50–70 / \>70 kg |
+| **Hepatobiliary (surgical insertion)** | 10 (5+5) / 10 (5+5) |
+| **Lower limb** | 8 / 10 |
+
+:::info Site-specific notes
+- **Bupivacaine 0.1%** is the infusion agent of choice at Freeman. Dose in first 4 hours must not exceed 2 mg/kg; total daily dose must be < 400 mg.
+- **Ropivacaine 0.2%** is commonly used at the RVI, particularly for shoulder surgery.
+- **Levobupivacaine 0.125%** is available pre-mixed; 0.25% needs to be drawn up from vials (drug error risk).
+- **Levobupivacaine 0.125% may not provide adequate analgesia** for severe pain (rib fractures, femoral fractures) — consider 0.25% levobupivacaine or ropivacaine.
+- **PVB in cardiothoracics**: bupivacaine 0.1%, 8–10 mL/hr (< 70 kg), 12–15 mL/hr (> 70 kg). Exceptional max 20 mL/hr.
+:::
+
+## Equipment (NUTH)
+
+### Needle and catheter selection (Pajunk sets)
+
+| Block | Needle | Catheter |
+|---|---|---|
+| **Interscalene** | Facet needle | Straight catheter |
+| **Paravertebral** | Tuohy needle | Curled catheter |
+| **Fascia iliaca** | Tuohy needle | Straight catheter |
+| **Popliteal sciatic / Supraclavicular / Infraclavicular / Superficial cervical plexus** | Operator preference | Straight catheter |
+
+### Infusion pumps
+
+| Pump | Used for |
+|---|---|
+| **CADD Solis** (must be **grey** — yellow pumps are for neuraxial only) | Lower limb catheters |
+| **Elastomeric pump** | Upper limb catheters, paravertebral catheters |
+
+### Fixation
+
+- Skin glue at the insertion site to form a barrier and minimise leakage
+- Lockit fixation device to prevent catheter migration
+- Transparent Tegaderm dressing with Hypafix window for inspection
+- Stimulating nerve catheters: tunnel, stitch with ≥ 3 cm exposed before securing at the lock device hub, cover with transparent dressing
+
+## Standard catheter durations
+
+| Block | Standard duration | Notes |
+|---|---|---|
+| **Fascia iliaca (hip fracture)** | 24 hours post-fixation | RVI standard |
+| **Paravertebral (rib fractures)** | Up to 5 days | RVI standard |
+| **Interscalene** | 72 hours | RVI standard |
+| **Non-tunnelled catheters** | Up to 72 hours | Freeman standard |
+| **Tunnelled catheters** | Up to 2 weeks | Freeman standard |
+
+- Intended duration should be documented at the time of insertion
+- Infection risk increases with duration — review daily and document rationale for continuation
+- Decisions to continue beyond standard duration should involve experienced decision makers (consultants and pain nurses)
+
+## Catheter referral
+
+All nerve catheters must be referred to the Acute Pain Team for ongoing management:
+
+**RVI**: Enter details on Pain Database, email nuth.InPatientPainServiceRVI@nhs.net, or call DECT 29912 / 29996  
+**Freeman**: Contact APS on DECT 48078; enter details into the Freeman Pain Database
+
+## Catheter removal
+
+- Remove when oral analgesia is established and pain is controlled, or if signs of infection
+- Only remove if the catheter comes out easily
+- Difficulty extracting may indicate tethering or knotting — do not use excessive force
+- **Snapped catheter**: individual risk/benefit decision (infection risk vs retrieval damage). Inform APS and RA lead.
 
 ## Thoracic epidural
 
@@ -22,82 +147,6 @@ tags: [infusion, epidural, paravertebral, fascia iliaca, catheter, PCA]
 - If unilateral block: withdraw catheter 1 cm and rebolus
 - If inadequate despite troubleshooting: consider conversion to IV PCA + rescue nerve block
 
-## Paravertebral catheter
-
-| Parameter | Standard |
-|---|---|
-| **Solution** | Ropivacaine 0.2% |
-| **Loading dose** | 15–20 mL bolus |
-| **Infusion rate** | 5–10 mL/hr |
-| **Patient bolus** | 5 mL, lockout 30 min |
-| **Duration** | 48–72 hours |
-
-### Indications
-
-- Thoracotomy, mastectomy, rib fractures, renal surgery
-- Alternative to epidural when epidural is contraindicated
-
-## Fascia iliaca catheter
-
-| Parameter | Standard |
-|---|---|
-| **Solution** | Ropivacaine 0.2% |
-| **Loading dose** | 30–40 mL bolus (suprainguinal approach) |
-| **Infusion rate** | 5–8 mL/hr |
-| **Patient bolus** | 10 mL, lockout 60 min |
-| **Duration** | 24–48 hours |
-
-### Indications
-
-- Neck of femur fracture (preoperative and postoperative)
-- Hip arthroplasty
-
-## Adductor canal catheter
-
-| Parameter | Standard |
-|---|---|
-| **Solution** | Ropivacaine 0.2% |
-| **Loading dose** | 15–20 mL bolus |
-| **Infusion rate** | 5–8 mL/hr |
-| **Patient bolus** | 5 mL, lockout 30 min |
-| **Duration** | 48 hours |
-
-### Indications
-
-- Total knee replacement
-- Motor-sparing — preserves quadriceps for early mobilisation
-
-## Popliteal sciatic catheter
-
-| Parameter | Standard |
-|---|---|
-| **Solution** | Ropivacaine 0.2% |
-| **Loading dose** | 20 mL bolus |
-| **Infusion rate** | 5–8 mL/hr |
-| **Patient bolus** | 5 mL, lockout 30 min |
-| **Duration** | 48–72 hours |
-
-### Indications
-
-- Above/below knee amputation (stump and phantom pain prevention)
-- Major ankle/foot surgery
-- Complex foot reconstruction
-
-## Wound infusion catheter
-
-| Parameter | Standard |
-|---|---|
-| **Solution** | Ropivacaine 0.2% |
-| **Infusion rate** | 2–5 mL/hr (subfascial) |
-| **Duration** | 48–72 hours |
-
-### Notes
-
-- Surgeon-placed catheter in the subfascial plane or wound bed
-- Used for: laparotomy (rectus sheath catheters), caesarean section, breast surgery
-- Simple to manage on the ward — does not require specialist nursing
-- Evidence for efficacy is variable depending on catheter placement and wound type
-
 ## IV PCA (for comparison / rescue)
 
 | Parameter | Standard |
@@ -108,10 +157,12 @@ tags: [infusion, epidural, paravertebral, fascia iliaca, catheter, PCA]
 | **Background infusion** | Not recommended routinely (respiratory depression risk) |
 | **4-hour max** | 20–40 mg (adjust for age, renal function) |
 
-## General principles
+## Multiple simultaneous catheters
 
-- **Daily review**: assess analgesia, block height/spread, motor function, catheter site
-- **Catheter care**: inspect insertion site daily for signs of infection, leakage, displacement
-- **Remove catheters**: when oral analgesia is established and pain is controlled, or if signs of infection
-- **Anticoagulation**: check local guidelines for safe catheter removal intervals with anticoagulants (applies to epidural and deep catheters)
-- **LA toxicity risk**: remember cumulative dosing — infusion + bolus + any supplemental LA must stay within safe limits
+- Acceptable in some cases (e.g. oesophagectomy, polytrauma)
+- The **maximum LA infusion rate is summative** — if max calculated rate is 14 mL/h, the sum of both catheter infusion rates must not exceed this
+- Multiple simultaneous nerve catheters: currently RVI only (not Freeman at time of guideline)
+
+## References
+
+- NUTH Guideline for Peripheral Nerve Block Catheters in Adults (v2, February 2024)
