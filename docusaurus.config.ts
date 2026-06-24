@@ -64,8 +64,8 @@ const config: Config = {
           label: 'Procedures',
         },
         {
-          to: '/docs/find-by-injury',
-          label: 'Find by Injury',
+          to: '/docs/find-by-body-part',
+          label: 'Find by Body Part',
           position: 'left',
         },
         {
