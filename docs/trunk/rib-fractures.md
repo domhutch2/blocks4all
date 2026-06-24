@@ -32,13 +32,13 @@ Not a surgical procedure per se, but rib fractures (traumatic or pathological) c
 - SAP block targets the fascial plane between serratus anterior and the external intercostal muscles (or superficial to serratus)
 - ESP block: local anaesthetic deposited deep to erector spinae muscle, superficial to transverse processes; spreads to paravertebral space via costotransverse foramina
 
-## Consent discussion (NUTH)
+## Consent discussion
 
 | Benefits | Common side effects | Serious complications |
 |---|---|---|
 | Avoidance of pain, respiratory failure, lung infection, and critical care admission | Will involve catheter; may require top-ups; regular pain team review; catheter dislodgement or fallout (± re-site) | Pneumothorax; paravertebral haematoma; epidural spread |
 
-## Catheter setup (NUTH)
+## Catheter setup
 
 | | Detail |
 |---|---|

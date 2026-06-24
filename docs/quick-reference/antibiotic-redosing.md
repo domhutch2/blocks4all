@@ -3,51 +3,68 @@ sidebar_position: 4
 tags: [antibiotics, redosing, prophylaxis, surgical]
 ---
 
-# Antibiotic Re-dosing Schedule
+# Antibiotic Re-dosing
 
-Intraoperative re-dosing of prophylactic antibiotics for prolonged surgical procedures. Re-dose at **2 × the half-life** from the first dose, or sooner if significant blood loss (> 1500 mL).
-
-## Common agents
-
-| Antibiotic | Standard Prophylactic Dose | Half-life | Re-dose Interval | Re-dose Amount |
-|---|---|---|---|---|
-| **Cefazolin** | 2 g IV (3 g if > 120 kg) | ~2 hr | **4 hours** | 1–2 g |
-| **Cefuroxime** | 1.5 g IV | ~1.5 hr | **3–4 hours** | 750 mg |
-| **Co-amoxiclav** | 1.2 g IV | ~1 hr | **2–3 hours** | 1.2 g |
-| **Flucloxacillin** | 1–2 g IV | ~1 hr | **3–4 hours** | 1 g |
-| **Gentamicin** | 1.5 mg/kg IV (single dose) | ~2–3 hr | **Not usually re-dosed** | — |
-| **Metronidazole** | 500 mg IV | ~8 hr | **8 hours** (if needed) | 500 mg |
-| **Vancomycin** | 15 mg/kg IV (infuse over 1 hr) | ~6 hr | **8–12 hours** | 15 mg/kg |
-| **Teicoplanin** | 400 mg IV | ~70 hr | **Not re-dosed intraop** | — |
-| **Clindamycin** | 600 mg IV | ~2.5 hr | **6 hours** | 600 mg |
-
-:::warning
-These are general guidelines. Always check your **local trust antibiotic prophylaxis policy** — specific procedures may have different agents and regimens.
-:::
+Intra-operative re-dosing of antibiotic prophylaxis for adult patients with **normal renal function** (creatinine in normal range). Based on local guideline (v2, May 2017, re-ratified June 2025).
 
 ## When to re-dose
 
-- **Time-based**: re-dose at the interval listed above from the time of the first dose (not from the start of surgery)
-- **Blood loss**: re-dose after **> 1500 mL estimated blood loss** regardless of timing
-- **Renal impairment**: extend intervals for renally-cleared drugs (cefazolin, gentamicin, vancomycin) — check local guidance
+Re-dose at the **standard prophylactic dose** (same dose as at induction) if **either** criterion is met:
+
+- **Operation duration ≥ 4 hours** (from knife-to-skin to skin closure), OR
+- **Blood loss ≥ 1500 mL** (assuming weight 50–100 kg)
+
+:::warning
+Always re-dose with the **same dose** you gave at the beginning of the procedure. See the Trust Guide to Antibiotic Prophylaxis for procedure-specific agents and doses.
+:::
+
+## Re-dosing intervals
+
+### Re-dose by time OR blood loss
+
+These antibiotics should be re-dosed at the interval below, **or** after ≥ 1500 mL blood loss — whichever comes first.
+
+| Interval | Antibiotics |
+|---|---|
+| **4 hourly** | Amoxicillin, Aztreonam, Cefuroxime, Co-amoxiclav, Flucloxacillin, Meropenem, Piperacillin/tazobactam, Temocillin |
+| **6 hourly** | Clindamycin |
+| **8 hourly** | Metronidazole |
+
+### Re-dose for blood loss only
+
+These antibiotics should **only** be re-dosed for blood loss ≥ 1500 mL — **not** by time.
+
+| Interval | Antibiotics |
+|---|---|
+| **Blood loss ≥ 1500 mL only** | Ciprofloxacin, Co-trimoxazole, Ertapenem, Gentamicin (max. once per procedure), Linezolid, Teicoplanin, Tigecycline, Vancomycin |
+
+## Exceptions
+
+- **Antifungals** do not need to be re-dosed intra-operatively
+- **Gentamicin** should only be re-dosed a **maximum of once** per surgical procedure
+
+## Blood loss guidance
+
+- **≥ 1500 mL** (weight 50–100 kg): re-dose at the standard prophylactic dose
+- **≥ 3000 mL**: re-dose for **every 1500 mL** blood lost (i.e. re-dose again after each further 1500 mL)
+- **Extremes of weight** (< 50 kg or > 100 kg): consider re-dosing if blood loss exceeds **20 mL/kg**
+
+### Cell saver
+
+If using cell saver technology and blood loss ≥ 1500 mL:
+- If cells are **washed and spun** as part of the process → **re-dose the antibiotic**
+- The washing process removes the antibiotic from the salvaged blood
 
 ## Practical tips
 
-- Set a timer or write the re-dose time on the whiteboard at induction
-- If in doubt about timing, it's safer to re-dose than not (underdosing is the more common error)
-- Antibiotic prophylaxis should be given **within 60 minutes before skin incision** (within 120 minutes for vancomycin/fluoroquinolones)
+- Time the re-dose interval from the **first dose** (at induction), not from the start of surgery
+- Set a timer or write the re-dose time on the whiteboard
+- If antibiotic therapy is to be continued post-operatively, revert to the usual dosing interval (see BNF or contact microbiology)
 - Document re-dosing on the anaesthetic chart
-
-## Penicillin allergy
-
-| Reported Allergy | Likely Cross-Reactivity | Alternative |
-|---|---|---|
-| Mild (rash, non-specific) | Low risk with cephalosporins (< 2%) | Cephalosporin usually safe — discuss with patient |
-| Severe (anaphylaxis, angioedema) | Avoid all beta-lactams | Vancomycin or teicoplanin ± gentamicin |
-| Unknown / unverified | Clarify before assuming | Take a history — most "penicillin allergies" are not true allergies |
 
 ## References
 
-- Bratzler DW et al. ASHP Clinical Practice Guidelines for Antimicrobial Prophylaxis in Surgery. *Am J Health-Syst Pharm*. 2013
-- NICE guideline NG125: Surgical site infections
-- Local trust antibiotic guidelines (check your intranet)
+- Local Guideline on Intra-Operative Re-Dosing of Antibiotic Prophylaxis for Adult Patients with Normal Renal Function (v2, May 2017, re-ratified June 2025)
+- Scottish Antimicrobial Prescribing Group: Recommendations for Re-dosing Antibiotics for Surgical Prophylaxis (2016)
+- NICE Clinical Guideline 74: Surgical site infections (2008)
+- Bratzler DW et al. ASHP Clinical Practice Guidelines for Antimicrobial Prophylaxis in Surgery. *Am J Health-Syst Pharm*. 2013; **70**: 195-283

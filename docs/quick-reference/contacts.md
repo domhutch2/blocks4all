@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-tags: [contacts, pain team, on-call, NUTH, RVI]
+tags: [contacts, pain team, on-call, RVI]
 ---
 
 # Contacts

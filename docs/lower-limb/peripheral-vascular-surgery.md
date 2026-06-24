@@ -11,7 +11,7 @@ Lower limb vascular surgery — femoral-popliteal bypass, femoral-distal bypass,
 
 ## Recommended regional technique
 
-### Plan A: Sciatic nerve block + femoral nerve block
+### Recommended: Sciatic nerve block + femoral nerve block
 
 **Sciatic nerve block**
 
@@ -34,20 +34,20 @@ Lower limb vascular surgery — femoral-popliteal bypass, femoral-distal bypass,
 - Sympathetic blockade may improve peripheral blood flow
 - May involve catheter insertion for ongoing analgesia
 
-### Plan B: alternatives
+### Alternatives
 
 - **Neuraxial techniques** — spinal or epidural anaesthesia. Effective but carries higher haemodynamic impact. Epidural catheter provides excellent ongoing analgesia.
 - **Fascia iliaca block** — alternative to femoral nerve block with potentially broader coverage; suprainguinal approach preferred.
 - **Combined sciatic + fascia iliaca** — provides near-complete lower limb coverage.
 - For **above knee amputation** specifically, see the dedicated [Above Knee Amputation](./above-knee-amputation.md) page with catheter setup details.
 
-## Consent discussion (NUTH)
+## Consent discussion
 
 | Benefits | Common side effects | Serious complications |
 |---|---|---|
 | Good pain control including reduced rate of phantom pain; reduced opioid requirement; avoid potential morbidity/mortality of GA in severely co-morbid patients | Horner's syndrome / phrenic nerve block (upper limb only); catheter dislodgement or fallout — need for tunnelling | Pneumothorax |
 
-## Catheter setup (NUTH)
+## Catheter setup
 
 | | Detail |
 |---|---|
@@ -75,4 +75,4 @@ Lower limb vascular surgery — femoral-popliteal bypass, femoral-distal bypass,
 
 - [NYSORA: Sciatic Nerve Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/lower-extremity/ultrasound-guided-sciatic-nerve-block/)
 - [NYSORA: Fascia Iliaca Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/lower-extremity/ultrasound-guided-fascia-iliaca-block/)
-- NUTH Guideline for Peripheral Nerve Blockade in Adults (v2, October 2023)
+- Local Guideline for Peripheral Nerve Blockade in Adults (v2, October 2023)

@@ -5,7 +5,7 @@ tags: [anticoagulation, ESRA, deep block, superficial block, DOAC, heparin, warf
 
 # Anticoagulation & Blocks
 
-Timing of nerve blocks in anticoagulated patients, based on ESRA 2022 guidelines and NUTH local guidance.
+Timing of nerve blocks in anticoagulated patients, based on ESRA 2022 guidelines and local guidance.
 
 :::warning Key Principle
 The classification of a block as **deep** or **superficial** determines whether anticoagulation timing rules apply. Superficial blocks may generally be performed without cessation of anticoagulants. Deep blocks require consideration of timing from last dose.
@@ -13,7 +13,7 @@ The classification of a block as **deep** or **superficial** determines whether 
 
 ## Deep vs superficial block classification
 
-Based on ESRA 2022 guidelines, reformatted from NUTH Appendix B.
+Based on ESRA 2022 guidelines, reformatted from local guideline Appendix B.
 
 | Deep nerve blocks | Superficial nerve blocks |
 |---|---|
@@ -25,7 +25,7 @@ Based on ESRA 2022 guidelines, reformatted from NUTH Appendix B.
 
 ## Timing of deep nerve blocks with anticoagulants
 
-Reproduced and rephrased from ESRA 2022 guidelines (NUTH Appendix C).
+Reproduced and rephrased from ESRA 2022 guidelines (local guideline Appendix C).
 
 | Drug / dose | Time from last dose to block | Target lab value | Time from block to next dose |
 |---|---|---|---|
@@ -58,4 +58,4 @@ Superficial nerve blocks may all be performed **without cessation** of anticoagu
 
 - ESRA: Regional anaesthesia in patients on antithrombotic drugs. *Eur J Anaesthesiol* 2022; **39**: 100-132
 - AAGBI: Regional anaesthesia and patients with abnormalities of coagulation. *Anaesthesia* 2013; **68**: 966-72
-- NUTH Guideline for Peripheral Nerve Blockade in Adults (v2, October 2023)
+- Local Guideline for Peripheral Nerve Blockade in Adults (v2, October 2023)

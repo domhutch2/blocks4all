@@ -24,6 +24,7 @@ const regions: Region[] = [
     to: '/docs/category/upper-limb',
     procedures: [
       {name: 'Shoulder Arthroscopy', to: '/docs/upper-limb/shoulder-arthroscopy'},
+      {name: 'Elbow Surgery', to: '/docs/upper-limb/elbow-surgery'},
       {name: 'ORIF Distal Radius', to: '/docs/upper-limb/distal-radius-orif'},
       {name: 'Carpal Tunnel Release', to: '/docs/upper-limb/carpal-tunnel-release'},
       {name: 'Hand & Plastics Trauma', to: '/docs/upper-limb/hand-trauma'},
@@ -38,6 +39,7 @@ const regions: Region[] = [
       {name: 'Total Knee Replacement', to: '/docs/lower-limb/total-knee-replacement'},
       {name: 'Hip Arthroplasty / NOF', to: '/docs/lower-limb/hip-arthroplasty'},
       {name: 'Ankle ORIF', to: '/docs/lower-limb/ankle-orif'},
+      {name: 'Foot Surgery', to: '/docs/lower-limb/foot-surgery'},
       {name: 'Above Knee Amputation', to: '/docs/lower-limb/above-knee-amputation'},
       {name: 'Peripheral Vascular Surgery', to: '/docs/lower-limb/peripheral-vascular-surgery'},
     ],
@@ -51,7 +53,14 @@ const regions: Region[] = [
       {name: 'Mastectomy & Breast Surgery', to: '/docs/trunk/mastectomy'},
       {name: 'Rib Fractures', to: '/docs/trunk/rib-fractures'},
       {name: 'Inguinal Hernia Repair', to: '/docs/trunk/inguinal-hernia-repair'},
-      {name: 'Caesarean Section', to: '/docs/trunk/caesarean-section'},
+    ],
+  },
+  {
+    title: 'Obstetrics',
+    icon: '\u{1F930}',
+    to: '/docs/category/obstetrics',
+    procedures: [
+      {name: 'Caesarean Section', to: '/docs/obstetrics/caesarean-section'},
     ],
   },
   {

@@ -5,7 +5,7 @@ tags: [safety, checklist, prep stop block, infection control, monitoring, ANTT]
 
 # Performing a Block
 
-Safety checklist and best practice for single-shot peripheral nerve blocks, based on NUTH guidelines.
+Safety checklist and best practice for single-shot peripheral nerve blocks, based on local guidelines.
 
 ## Before you start
 
@@ -13,7 +13,7 @@ Safety checklist and best practice for single-shot peripheral nerve blocks, base
 - **Monitoring**: SpO2, non-invasive BP, ECG (AAGBI standard)
 - **NR fit equipment** is mandatory
 - **Resuscitation equipment** available — know the location of the nearest **Intralipid**
-- **Consent** documented — discuss benefits, risks, alternatives, and expected duration
+- **Consent** documented — see [Contraindications & Consent](./contraindications-and-consent.md) for full guidance
 - **Anaesthetic assessment** completed
 
 ## Infection control
@@ -29,7 +29,7 @@ Safety checklist and best practice for single-shot peripheral nerve blocks, base
 
 ## Prep-Stop-Block
 
-The RCoA/RA-UK/SALG **"Stop Before You Block"** check is mandatory at NUTH.
+The RCoA/RA-UK/SALG **"Stop Before You Block"** check is mandatory.
 
 ### PREP
 
@@ -63,6 +63,8 @@ Open needle. Immediately perform nerve block.
 - Any event of **pain, paraesthesia, blood on aspiration, or difficult injection** should prompt needle repositioning and must be documented
 - Communicate with the patient throughout where possible
 - Blocks may be performed awake, under sedation, or under GA — interscalene and supraclavicular are safer performed on awake patients (expert opinion)
+- Trauma patients (e.g. hip or rib fractures) may need supplementary analgesia (fentanyl / alfentanil) to tolerate positioning for catheter insertion
+- If inserting a stimulating nerve catheter under GA, avoid non-depolarising muscle relaxants (or use a short-acting agent) — muscle contraction is needed to guide catheter placement. Consider LMA-to-ETT airway exchange after catheter insertion if relaxation is needed.
 
 ## After the block
 
@@ -76,7 +78,8 @@ Open needle. Immediately perform nerve block.
   - Needle type and dimensions
   - LA type, volume, and concentration
   - Any complications
-  - Post-procedure instructions for the parent team
+  - Post-procedure instructions for the parent team (including intended duration of infusion for catheters)
+- For catheter documentation: Powerchart autotext is available — add a new document in Document View, type `@@`, and select the appropriate catheter template (e.g. FIC, PVC)
 - An anaesthetist must remain immediately available until the case is complete and patient is transferred
 
 ## Anxiolysis
@@ -94,6 +97,6 @@ Open needle. Immediately perform nerve block.
 
 ## References
 
-- NUTH Guideline for Peripheral Nerve Blockade in Adults (v2, October 2023)
+- Local Guideline for Peripheral Nerve Blockade in Adults (v2, October 2023)
 - RCoA/RA-UK/SALG: [Stop Before You Block](https://www.salg.ac.uk/salg-publications/stop-before-you-block/)
 - NICE IPG285: Ultrasound Guided Regional Nerve Block (2009)

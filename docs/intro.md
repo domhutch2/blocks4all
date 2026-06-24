@@ -18,6 +18,7 @@ Or use the **[Browse by Region](/browse)** page to find blocks by body area.
 Essential pages you'll need on shift:
 
 - **[Performing a Block](./quick-reference/performing-a-block.md)** — safety checklist, Prep-Stop-Block, infection control, documentation
+- **[Contraindications & Consent](./quick-reference/contraindications-and-consent.md)** — absolute/relative contraindications, consent process, day surgery advice
 - **[LA Dosing & Calculations](./quick-reference/la-dosing.md)** — max doses, concentration tables, adjuvants
 - **[LA Toxicity & Lipid Rescue](./quick-reference/la-toxicity.md)** — recognition, Intralipid protocol, cardiac arrest management
 - **[Anticoagulation & Blocks](./quick-reference/anticoagulation.md)** — ESRA 2022 timing tables, deep vs superficial classification
@@ -30,15 +31,16 @@ Essential pages you'll need on shift:
 
 | Region | Examples |
 |---|---|
-| [Upper Limb](/docs/category/upper-limb) | Shoulder arthroscopy, ORIF distal radius, carpal tunnel release |
-| [Lower Limb](/docs/category/lower-limb) | TKR, hip arthroplasty, ankle ORIF, AKA, peripheral vascular |
-| [Trunk](/docs/category/trunk) | Laparotomy, mastectomy, rib fractures, caesarean section |
+| [Upper Limb](/docs/category/upper-limb) | Shoulder arthroscopy, elbow surgery, ORIF distal radius, carpal tunnel release |
+| [Lower Limb](/docs/category/lower-limb) | TKR, hip arthroplasty, ankle ORIF, foot surgery, AKA, peripheral vascular |
+| [Trunk](/docs/category/trunk) | Laparotomy, mastectomy, rib fractures |
+| [🤰 Obstetrics](/docs/category/obstetrics) | Caesarean section |
 | [Head & Neck](/docs/category/head--neck) | Thyroidectomy |
 
 ## Each procedure page includes
 
-- **Plan A** — the recommended regional technique with dosing
-- **Plan B / alternatives** — for when the primary block isn't feasible
+- **Recommended** — the recommended regional technique with dosing
+- **Alternatives** — for when the primary block isn't feasible
 - **Key anatomy** — relevant landmarks and sonoanatomy
 - **Considerations** — contraindications, practical tips, patient factors
 - **References** — PROSPECT, NICE, primary evidence

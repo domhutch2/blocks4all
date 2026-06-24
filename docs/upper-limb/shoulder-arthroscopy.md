@@ -30,13 +30,13 @@ Arthroscopic shoulder surgery — rotator cuff repair, subacromial decompression
 - C5/C6 roots seen as hypoechoic round structures ("traffic light" sign)
 - Phrenic nerve runs on the anterior surface of anterior scalene
 
-## Consent discussion (NUTH)
+## Consent discussion
 
 | Benefits | Common side effects | Serious complications |
 |---|---|---|
 | Improved day case rate; athletic/sports injury patients may wish to watch surgery | Horner's syndrome; phrenic nerve block | Pneumothorax |
 
-## Catheter setup (NUTH)
+## Catheter setup
 
 | | Detail |
 |---|---|

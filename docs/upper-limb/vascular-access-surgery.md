@@ -11,7 +11,7 @@ Creation of arteriovenous fistula (AVF) or arteriovenous graft (AVG) for haemodi
 
 ## Recommended regional technique
 
-### Plan A: Supraclavicular brachial plexus block
+### Recommended: Supraclavicular brachial plexus block
 
 **Targets**: Trunks/divisions of the brachial plexus at the supraclavicular fossa  
 **Approach**: Ultrasound-guided, in-plane lateral-to-medial  
@@ -27,13 +27,13 @@ Creation of arteriovenous fistula (AVF) or arteriovenous graft (AVG) for haemodi
 - Increased day case rates
 - May include "top-up blocks" if incomplete
 
-### Plan B: alternatives
+### Alternatives
 
 - **Axillary brachial plexus block** — avoids phrenic nerve palsy risk; good for forearm AVF. May provide less consistent sympathetic blockade than supraclavicular.
 - **Infraclavicular brachial plexus block** — good alternative, especially for upper arm procedures.
 - **Local infiltration** — surgeon-delivered, for straightforward cases in patients who decline or are unsuitable for regional.
 
-## Consent discussion (NUTH)
+## Consent discussion
 
 | Benefits | Common side effects | Serious complications |
 |---|---|---|
@@ -49,10 +49,10 @@ Creation of arteriovenous fistula (AVF) or arteriovenous graft (AVG) for haemodi
 
 - These patients are often high-risk (chronic kidney disease, diabetes, cardiovascular disease) — regional anaesthesia avoids the haemodynamic instability of general anaesthesia
 - Many dialysis patients are anticoagulated — check timing with [Anticoagulation & Blocks](../quick-reference/anticoagulation.md) guidance. Supraclavicular is classified as a superficial block and can generally be performed without cessation of anticoagulants.
-- Follow-up via text message service at NUTH
+- Follow-up via text message service 
 - Avoid blood pressure measurements and venepuncture on the fistula arm
 
 ## References
 
 - [NYSORA: Supraclavicular Brachial Plexus Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/upper-extremity/ultrasound-guided-supraclavicular-brachial-plexus-block/)
-- NUTH Guideline for Peripheral Nerve Blockade in Adults (v2, October 2023)
+- Local Guideline for Peripheral Nerve Blockade in Adults (v2, October 2023)

@@ -31,7 +31,7 @@ Open reduction and internal fixation of ankle fractures — lateral malleolus (f
 - **Ankle block** — ring block of the 5 terminal nerves at the ankle (tibial, deep peroneal, superficial peroneal, sural, saphenous). Suitable for foot surgery; less reliable for ankle ORIF with proximal incisions.
 - **Spinal anaesthesia** — appropriate as primary anaesthetic, particularly for emergency cases
 
-## Consent discussion (NUTH)
+## Consent discussion
 
 | Benefits | Common side effects | Serious complications |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
-tags: [infusion, epidural, paravertebral, fascia iliaca, catheter, PCA, NUTH]
+tags: [infusion, epidural, paravertebral, fascia iliaca, catheter, PCA]
 ---
 
 # Standard Infusion Recipes
 
-NUTH-specific loading doses, infusion rates, equipment, and catheter durations. Based on the NUTH Guideline for Peripheral Nerve Block Catheters in Adults (v2, February 2024).
+Local loading doses, infusion rates, equipment, and catheter durations. Based on the Local Guideline for Peripheral Nerve Block Catheters in Adults (v2, February 2024).
 
 ## Loading doses (single shot / catheter loading)
 
@@ -67,7 +67,7 @@ NUTH-specific loading doses, infusion rates, equipment, and catheter durations. 
 - **Levobupivacaine 0.125% may not provide adequate analgesia** for severe pain (rib fractures, femoral fractures) — consider 0.25% levobupivacaine or ropivacaine.
 :::
 
-## Equipment (NUTH)
+## Equipment
 
 ### Needle and catheter selection (Pajunk sets)
 
@@ -92,6 +92,37 @@ NUTH-specific loading doses, infusion rates, equipment, and catheter durations. 
 - Transparent Tegaderm dressing with Hypafix window for inspection
 - Stimulating nerve catheters: tunnel, stitch with ≥ 3 cm exposed before securing at the lock device hub, cover with transparent dressing
 
+## Observation frequencies
+
+| Setting | Frequency |
+|---|---|
+| **In Recovery** | Every 15 minutes |
+| **On ward** | Hourly for 4 hours, then 4-hourly until discontinued |
+| **After a bolus dose** | Every 5 minutes for 30 minutes |
+
+Observations must include: NEWS 2, pain assessment (at rest and on movement, including ability to deep breathe, cough, mobilise).
+
+### Daily checks
+
+- **LAI exit site**: leakage, redness, tenderness, signs of infection
+- **Pump and infusion**: correct drug prescribed and infusing, pump settings match prescription, CADD Solis connected to mains power, elastomeric pump in dedicated bag
+- **IV access** must remain patent while any LAI is in situ
+
+### Paravertebral infusions — additional monitoring
+
+Check motor block using the **modified Bromage scale** at 1 hour after insertion (or in Recovery), 6 hours later, and the following morning. Document on the LAI chart.
+
+| Grade | Description |
+|---|---|
+| 1 | Free movement of leg and foot |
+| 2 | Just able to flex knee with free movement of foot |
+| 3 | Unable to flex knee but free movement of foot |
+| 4 | Unable to move leg or foot |
+
+:::danger
+**Bromage score ≥ 2** requires urgent review by IPS / senior anaesthetist. Consider MRI if indicated.
+:::
+
 ## Standard catheter durations
 
 | Block | Standard duration | Notes |
@@ -103,6 +134,7 @@ NUTH-specific loading doses, infusion rates, equipment, and catheter durations. 
 | **Tunnelled catheters** | Up to 2 weeks | |
 
 - Intended duration should be documented at the time of insertion
+- Infusions must be **discontinued within 7 days** unless alternative guidance is documented from IPS
 - Infection risk increases with duration — review daily and document rationale for continuation
 - Decisions to continue beyond standard duration should involve experienced decision makers (consultants and pain nurses)
 
@@ -118,6 +150,7 @@ Enter details on the Pain Database, email nuth.InPatientPainServiceRVI@nhs.net, 
 - Only remove if the catheter comes out easily
 - Difficulty extracting may indicate tethering or knotting — do not use excessive force
 - **Snapped catheter**: individual risk/benefit decision (infection risk vs retrieval damage). Inform APS and RA lead.
+- **Catheter tip culture**: send for C&S only if there are signs of infection at the exit site or the patient is pyrexial — routine culture is not required
 
 ## Thoracic epidural
 
@@ -136,6 +169,20 @@ Enter details on the Pain Database, email nuth.InPatientPainServiceRVI@nhs.net, 
 - If unilateral block: withdraw catheter 1 cm and rebolus
 - If inadequate despite troubleshooting: consider conversion to IV PCA + rescue nerve block
 
+### Epidural leg weakness
+
+All patients receiving epidural analgesia must have leg strength assessed regularly and recorded on the epidural chart. Profound leg weakness (unable to bend one or both knees, Bromage score 2 or 3) usually indicates the infusion rate is too high — but it may indicate an **epidural haematoma**.
+
+1. **Motor block score 2 or 3?** → **Stop the epidural infusion** and contact the Acute Pain Team
+2. **Reassess leg strength every 30 minutes**
+3. **Patient can now bend their knees?**
+   - **Yes** → Restart epidural infusion. If the patient is uncomfortable, contact APS to reassess analgesia.
+   - **No, and 4 hours have passed since stopping** → **Suspect epidural haematoma.** Contact APS immediately.
+
+:::danger
+**An epidural haematoma must be evacuated within 8 hours of symptom onset** for the best chance of recovery of neurological function. Do not delay escalation.
+:::
+
 ## IV PCA (for comparison / rescue)
 
 | Parameter | Standard |
@@ -152,6 +199,32 @@ Enter details on the Pain Database, email nuth.InPatientPainServiceRVI@nhs.net, 
 - The **maximum LA infusion rate is summative** — if max calculated rate is 14 mL/h, the sum of both catheter infusion rates must not exceed this
 - Multiple simultaneous nerve catheters may be considered at the RVI
 
+## IV Lidocaine infusion
+
+Intravenous lidocaine as a systemic analgesic adjunct for major open or laparoscopic surgery (e.g. bowel resection, nephrectomy, spinal fixation) and rescue analgesia in recovery/critical care. **Theatre and critical care areas only** — not suitable for ward use.
+
+| Parameter | Standard |
+|---|---|
+| **Loading dose** | 1.5 mg/kg slow IV push over 10 minutes (max 100 mg) |
+| **Maintenance** | 1 mg/kg/hr using undiluted lidocaine 1% (10 mg/mL), max 10 mL/hr |
+| **Duration** | Max 24 hours unless discussed with APS |
+| **Weight** | Use **Ideal Body Weight** if BMI > 30 (women: height cm − 105; men: height cm − 100) |
+| **Minimum weight** | Not for patients < 40 kg |
+| **Monitoring** | Continuous ECG mandatory; observations as per LA infusion chart |
+
+:::danger Critical interaction with regional anaesthesia
+- Patients on IV lidocaine must **not** receive local anaesthetic by any other route (nerve block, epidural, wound catheter with bolus)
+- **4-hour gap** required between IV lidocaine and any nerve or fascial plane block (in either direction)
+- An LA infusion **without bolus** through a wound or epidural catheter may be started 30 minutes after IV lidocaine is stopped
+:::
+
+**Contraindications**: concurrent LA by another route, amide LA hypersensitivity, complete heart block or impaired cardiovascular function, hypovolaemia, weight < 40 kg
+
+**Cautions**: pregnancy, myasthenia gravis, epilepsy, acute porphyria, congestive heart failure, bradycardia, hepatic or renal insufficiency
+
+**Key interactions**: beta-blockers, amiodarone, phenytoin, antiarrhythmic agents, QT-prolonging antipsychotics
+
 ## References
 
-- NUTH Guideline for Peripheral Nerve Block Catheters in Adults (v2, February 2024)
+- Local Guideline for Peripheral Nerve Block Catheters in Adults (v2, February 2024)
+- Local Guideline for IV Lidocaine for Peri-operative Pain Management in Adults (v5, February 2025)

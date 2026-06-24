@@ -30,7 +30,7 @@ Open reduction and internal fixation of distal radius fractures — volar lockin
 - Pleura visible deep to the first rib — key safety landmark
 - Dorsal scapular artery may traverse the plexus
 
-## Consent discussion (NUTH)
+## Consent discussion
 
 | Benefits | Common side effects | Serious complications |
 |---|---|---|

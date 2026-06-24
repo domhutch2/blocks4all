@@ -1,11 +1,11 @@
 ---
 sidebar_position: 9
-tags: [catheter, troubleshooting, blocked, leaking, disconnection, toxicity, NUTH]
+tags: [catheter, troubleshooting, blocked, leaking, disconnection, toxicity]
 ---
 
 # Catheter Troubleshooting
 
-For anaesthetic staff managing nerve catheter problems. Based on NUTH Guideline for Peripheral Nerve Block Catheters in Adults (v2, February 2024).
+For anaesthetic staff managing nerve catheter problems. Based on Local Guideline for Peripheral Nerve Block Catheters in Adults (v2, February 2024).
 
 :::warning
 These troubleshooting guides are for **anaesthetic staff only** — not for non-anaesthetic medical or nursing staff on the wards.
@@ -71,4 +71,4 @@ If signs of LA toxicity (metallic taste, confusion, dizziness, tinnitus):
 
 ## References
 
-- NUTH Guideline for Peripheral Nerve Block Catheters in Adults (v2, February 2024)
+- Local Guideline for Peripheral Nerve Block Catheters in Adults (v2, February 2024)

@@ -11,7 +11,7 @@ Emergency and elective hand surgery — tendon repair, fracture fixation, nerve 
 
 ## Recommended regional technique
 
-### Plan A: Axillary brachial plexus block
+### Recommended: Axillary brachial plexus block
 
 **Targets**: Terminal branches of the brachial plexus — median, ulnar, radial, and musculocutaneous nerves  
 **Approach**: Ultrasound-guided, at the axilla, identifying individual nerves around the axillary artery  
@@ -26,7 +26,7 @@ Emergency and elective hand surgery — tendon repair, fracture fixation, nerve 
 - Well tolerated awake — ideal for day case surgery
 - May include "top-up blocks" if coverage is incomplete
 
-### Plan B: alternatives
+### Alternatives
 
 - **Supraclavicular brachial plexus block** — provides reliable hand and forearm anaesthesia ("spinal of the upper limb"). Small risk of phrenic nerve palsy (~1%) and pneumothorax.
 - **Infraclavicular brachial plexus block** — good for catheter placement if prolonged surgery or postoperative infusion is anticipated. Pneumothorax risk slightly higher than axillary.
@@ -34,7 +34,7 @@ Emergency and elective hand surgery — tendon repair, fracture fixation, nerve 
 - **Wrist blocks** — targeted median, ulnar, and/or radial nerve blocks at the wrist for limited procedures.
 - **Digital nerve blocks** — for single finger procedures.
 
-## Consent discussion (NUTH)
+## Consent discussion
 
 | Benefits | Common side effects | Serious complications |
 |---|---|---|
@@ -56,4 +56,4 @@ Emergency and elective hand surgery — tendon repair, fracture fixation, nerve 
 
 - [NYSORA: Supraclavicular Brachial Plexus Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/upper-extremity/ultrasound-guided-supraclavicular-brachial-plexus-block/)
 - [NYSORA: Wrist Block](https://www.nysora.com/techniques/ultrasound-guided-techniques/upper-extremity/ultrasound-guided-wrist-block/)
-- NUTH Guideline for Peripheral Nerve Blockade in Adults (v2, October 2023)
+- Local Guideline for Peripheral Nerve Blockade in Adults (v2, October 2023)
