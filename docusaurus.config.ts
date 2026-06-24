@@ -14,10 +14,10 @@ const config: Config = {
   },
 
   url: 'https://domhutch.github.io',
-  baseUrl: '/regional-anaesthesia-notes/',
+  baseUrl: '/blocks4all/',
 
   organizationName: 'domhutch',
-  projectName: 'regional-anaesthesia-notes',
+  projectName: 'blocks4all',
 
   onBrokenLinks: 'throw',
 
@@ -74,7 +74,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/domhutch/regional-anaesthesia-notes',
+          href: 'https://github.com/domhutch/blocks4all',
           label: 'GitHub',
           position: 'right',
         },
