@@ -69,6 +69,38 @@ html, body {
   overflow-x: hidden;
 }
 
+/* Capacitor iOS safe area support */
+@supports (padding-top: env(safe-area-inset-top)) {
+  html {
+    padding-top: env(safe-area-inset-top);
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: env(safe-area-inset-top);
+    background-color: var(--ifm-navbar-background-color);
+    z-index: 10000;
+  }
+
+  .navbar,
+  .navbar-sidebar {
+    top: env(safe-area-inset-top);
+  }
+
+  .navbar-sidebar__backdrop {
+    top: env(safe-area-inset-top);
+  }
+
+  .navbar-sidebar {
+    padding-top: 0;
+    height: calc(100vh - env(safe-area-inset-top));
+  }
+}
+
 .table-of-contents,
 .markdown table {
   overflow-x: auto;
