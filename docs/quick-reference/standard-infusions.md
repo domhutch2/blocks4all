@@ -14,10 +14,10 @@ Local loading doses, infusion rates, equipment, and catheter durations. Based on
 | Block type | 0.25% max volume | 0.5% max volume |
 |---|---|---|
 | | \>50 kg / \>60 kg / \>70 kg | \>50 kg / \>60 kg / \>70 kg |
-| **ESP** | 30 / 40 / 50 | — |
-| **QL, TAP, Serratus** | 15/side / 20/side / 25/side | — |
-| **Interscalene** | 15 / 20 / 25 | 10 / 15 / 20 |
-| **Axillary, Supra/Infraclavicular, Sciatic, Femoral** | 25 / 30 / 40 | 15 / 20 / 25 |
+| **ESP** | 30ml / 40ml / 50ml | — |
+| **QL, TAP, Serratus** | 15ml per side / 20ml per side / 25ml per side | — |
+| **Interscalene** | 15ml / 20ml / 25ml | 10ml / 15m; / 20ml |
+| **Axillary, Supra/Infraclavicular, Sciatic, Femoral** | 25ml / 30ml / 40ml | 15ml / 20ml / 25ml |
 | **Fascia iliaca** | 30 / 35 / 40 | — |
 | **Paravertebral** | 30 / 35 / 40 | 15 / 20 / 25 |
 | **Rectus sheath** | 15/side / 20/side / 25/side | — |
