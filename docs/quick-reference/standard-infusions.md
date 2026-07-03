@@ -15,25 +15,28 @@ Local loading doses, infusion rates, equipment, and catheter durations. Based on
 |---|---|---|
 | | \>50 kg / \>60 kg / \>70 kg | \>50 kg / \>60 kg / \>70 kg |
 | **ESP** | 30ml / 40ml / 50ml | — |
-| **QL, TAP, Serratus** | 15ml per side / 20ml per side / 25ml per side | — |
-| **Interscalene** | 15ml / 20ml / 25ml | 10ml / 15m; / 20ml |
+| **QL, TAP, Serratus** | 15ml ps / 20ml ps / 25ml ps | — |
+| **Interscalene** | 15ml / 20ml / 25ml | 10ml / 15ml / 20ml |
 | **Axillary, Supra/Infraclavicular, Sciatic, Femoral** | 25ml / 30ml / 40ml | 15ml / 20ml / 25ml |
-| **Fascia iliaca** | 30 / 35 / 40 | — |
-| **Paravertebral** | 30 / 35 / 40 | 15 / 20 / 25 |
-| **Rectus sheath** | 15/side / 20/side / 25/side | — |
+| **Fascia iliaca** | 30ml / 35ml / 40ml | — |
+| **Paravertebral** | 30ml / 35ml / 40ml | 15ml / 20ml / 25ml |
+| **Rectus sheath** | 15ml ps / 20ml ps / 25ml ps | — |
+**ps = PER SIDE**
 
 ### Lidocaine with adrenaline 1:200,000 (max dose 7 mg/kg)
 
 | Block type | 1% max volume |
 |---|---|
 | | \>50 kg / \>60 kg / \>70 kg |
-| **ESP** | 30 / 40 / 50 |
-| **QL, TAP, Serratus** | 15/side / 20/side / 25/side |
-| **Interscalene** | 15 / 20 / 25 |
-| **Axillary, Supra/Infraclavicular, Sciatic, Femoral** | 25 / 30 / 40 |
-| **Fascia iliaca** | 25 / 30 / 40 |
-| **Paravertebral** | 30 / 35 / 40 |
+| **ESP** | 30ml / 40ml / 50ml |
+| **QL, TAP, Serratus** | 15ml ps / 20ml ps / 25ml ps |
+| **Interscalene** | 15ml / 20ml / 25ml |
+| **Axillary, Supra/Infraclavicular, Sciatic, Femoral** | 25ml / 30ml / 40ml |
+| **Fascia iliaca** | 25ml / 30ml / 40ml |
+| **Paravertebral** | 30ml / 35ml / 40ml |
 | **Rectus sheath** | — |
+
+**ps = PER SIDE**
 
 ## Continuous infusion rates
 

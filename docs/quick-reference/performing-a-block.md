@@ -13,7 +13,7 @@ Safety checklist and best practice for single-shot peripheral nerve blocks, base
 - **Monitoring**: SpO2, non-invasive BP, ECG (AAGBI standard)
 - **NR fit equipment** is mandatory
 - **Resuscitation equipment** available — know the location of the nearest **Intralipid**
-- **Consent** documented — see [Contraindications & Consent](./contraindications-and-consent.md) for full guidance
+- **Consent** documented — see [Contraindications & Consent](./contraindications-and-consent.md) for more guidance
 - **Anaesthetic assessment** completed
 
 ## Infection control
@@ -25,7 +25,7 @@ Safety checklist and best practice for single-shot peripheral nerve blocks, base
 - **ANTT** (Aseptic Non-Touch Technique) — key parts: needle tip, catheter, injection port, syringe tips
 - Do not pass the needle tip through the gel
 - **Probe decontamination**: Tristel Solo wipes after use (avoid Clinell wipes on ultrasound probes unless confirmed compatible)
-- Single-shot blocks do not require the same barrier precautions as neuraxial techniques — minimum is hand washing, skin disinfection, sterile gel, and probe cover
+- **Single-shot blocks do not require the same barrier precautions as neuraxial techniques** — minimum is hand washing, skin disinfection, sterile gel, and probe cover
 
 ## Prep-Stop-Block
 
@@ -33,7 +33,7 @@ The RCoA/RA-UK/SALG **"Stop Before You Block"** check is mandatory.
 
 ### PREP
 
-Drugs and equipment ready. Ultrasound scan. Position patient and clean site. **Do not open the needle yet.**
+Drugs and equipment ready. Ultrasound scan. Position patient and clean site. **Assistant to pass equipment only after this step.**
 
 ### STOP
 
@@ -41,11 +41,11 @@ Drugs and equipment ready. Ultrasound scan. Position patient and clean site. **D
 
 **Blocker**: "I've completed my prep, let's Stop Before You Block"  
 **Assistant**: "OK, let's Stop Before You Block"  
-**Both**: Check mark and consent (check with patient)
+**Both**: Check mark and consent (check with patient if awake)
 
 ### BLOCK
 
-Open needle. Immediately perform nerve block.
+Immediately perform nerve block.
 
 *If any delay after the STOP check, restart the process.*
 
@@ -54,7 +54,7 @@ Open needle. Immediately perform nerve block.
 - If the surgical site is already marked, do **not** make a separate anaesthetic mark
 - If performing a block before surgery (e.g. fascia iliaca for NOF) and no surgical mark yet: mark the block site with a **"B"** in a visible location, ideally at the time of consenting
 - For rib fractures: bilateral blocks do not require marking; for unilateral, consider marking the block level
-- If the planned surgical site is unclear, contact the surgical team before proceeding
+- If the planned surgical site is unclear, contact the surgical team before proceeding - this ensures the block performed covers the surgical field
 
 ## During the block
 
