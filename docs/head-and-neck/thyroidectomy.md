@@ -7,7 +7,7 @@ tags: [thyroid, superficial cervical plexus, bilateral]
 
 ## Surgical overview
 
-Partial or total thyroidectomy for thyroid nodules, goitre, or thyroid malignancy. Performed via a transverse cervical (Kocher) incision.
+Partial or total thyroidectomy for thyroid nodules, goitre, or thyroid malignancy. Performed via a transverse cervical (Kocher) incision. this is a test
 
 ## Recommended regional technique
 
